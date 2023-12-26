@@ -1,2 +1,2 @@
-# cnn_based_food_classification
-A cnn based food classification model repo.
+# cnn_food_classification
+This is a repository of cnn based food classification
